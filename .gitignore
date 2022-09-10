@@ -1,0 +1,5 @@
+# File with GCP credentials
+jeans-tutorial-*.json
+
+# IDE files
+.idea
